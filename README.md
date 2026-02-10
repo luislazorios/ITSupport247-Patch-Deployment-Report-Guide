@@ -18,7 +18,7 @@ Diagnose failed patch installations, by obtaining a report
 ### Step 3: Patch Deployment Report
 - Reports → **"Disclose Patches"** → **"Patch Deployment Report"**  
 
-![select](/DoC/select.png)  
+![select](/Doc/select.png)  
 
 ### Step 4: Filter by Customer
 - **Customer Selection Dropdown** → Choose target(s):
