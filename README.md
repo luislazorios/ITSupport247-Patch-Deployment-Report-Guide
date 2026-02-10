@@ -25,6 +25,7 @@ Diagnose failed patch installations, by obtaining a report
   - Individual client
   - Customer group
   - All customers
+    
 ![filter](/Doc/filter.png)
 
 ### Step 5: View Results & Diagnose
