@@ -1,9 +1,7 @@
-# ITSupport247-Patch-Deployment-Report-Guide
-Diagnose failed patch installations, by obtaining a report
 # ITSupport247: Patch Deployment Report Guide
 
-**Version 1.1** | **Luis Lazo** | **CMIT Solutions Santiago**  
-**Purpose:** Diagnose failed patch installations by customer
+ **Luis Lazo**  
+**Purpose:** Diagnose failed patch installations, by obtaining a report
 
 ## 📋 Step-by-Step Instructions
 
@@ -48,4 +46,4 @@ Diagnose failed patch installations, by obtaining a report
 - ✅ Schedule weekly for compliance
 - ✅ Screenshot → ConnectWise ticket
 
-**Author:** Luis Lazo 
+**Author:** Luis Lazo & perplexityAI
